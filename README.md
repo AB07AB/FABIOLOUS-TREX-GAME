@@ -1,2 +1,2 @@
 # FABIOLOUS-TREX-GAME
-Fix Starts, Thanks :)
+Fix BronzeStars, Thanks :)
