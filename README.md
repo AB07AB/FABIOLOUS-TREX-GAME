@@ -1,2 +1,1 @@
-# FABIOLOUS-TREX-GAME
-Fix BronzeStars, Thanks :)
+# THE-ULTIMATE-TREX-GAME
